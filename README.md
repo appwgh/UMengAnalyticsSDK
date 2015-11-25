@@ -1,2 +1,2 @@
 # UMengAnalyticsSDK
-UMeng's official Analytics SDK(no-idfa) for iOS
+## UMeng's Analytics SDK(no-idfa) for Cocoapods convenience

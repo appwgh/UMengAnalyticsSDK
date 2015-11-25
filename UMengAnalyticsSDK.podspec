@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
 s.name             = "UMengAnalyticsSDK"
-s.version          = "3.6.5"
-s.summary          = "UMeng's official Analytics SDK(no-idfa) for iOS."
+s.version          = "3.6.7"
+s.summary          = "UMeng's Analytics iOS SDK(no-idfa)"
 s.homepage         = "http://dev.umeng.com"
 s.license          = { :type => 'LGPL', :text => <<-LICENSE
                         ® 1998 - 2014 UMeng All Rights Reserved.
