@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
 s.name             = "UMengAnalyticsSDK"
-s.version          = "3.6.7"
+s.version          = "3.6.7.0"
 s.summary          = "UMengAnalyticsSDK for cocoapods convenience"
 s.homepage         = "http://dev.umeng.com"
 s.license          = { :type => 'LGPL', :text => <<-LICENSE
